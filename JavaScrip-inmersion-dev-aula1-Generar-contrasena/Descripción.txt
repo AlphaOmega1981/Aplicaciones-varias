@@ -1,0 +1,9 @@
+Proyecto realizado en inmersión de Alura.
+
+La base del proyecto abarca la generación de una contraseña de manera aleatoria la cual en 
+principio es alimentada por una cadena de caracteres que tiene mayúsculas, minúsculas y números.
+
+Se le adicionó:
+	* Caracteres especiales.
+	* Una caja de texto que muestra el nivel de seguridad de la clave generada.
+	* Comparación con carácter en blanco por si es ingresado en la caja de cantidad.
