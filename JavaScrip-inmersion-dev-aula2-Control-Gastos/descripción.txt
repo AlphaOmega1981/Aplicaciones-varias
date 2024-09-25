@@ -1,0 +1,10 @@
+Proyecto realizado en inmersión de Alura.
+
+La base del proyecto abarca el ingreso del nombre del gasto y de su valor a dos listas, la
+sumatoria de estos gastos, la lista que se presenta con el nombre y el valor y un botón para
+eliminar el gasto de las listas.
+
+Se le adicionó:
+	* Texto para descripción del gasto que se almacena en una tercera lista.
+	* Comparación con cadena de datos vacía para evitar el ingreso de espacios en blanco.
+	* Botón para modificar el gasto si este es ingresado con datos erróneos.
